@@ -1,0 +1,12 @@
+#micBtn {
+  padding: 15px;
+  background: red;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+audio {
+  margin-top: 20px;
+}
