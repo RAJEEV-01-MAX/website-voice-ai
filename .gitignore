@@ -1,0 +1,19 @@
+# Ignore env files
+.env
+backend/.env
+
+# Ignore Python cache
+__pycache__/
+backend/processing/__pycache__/
+
+# Ignore audio files
+*.wav
+*.mp3
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+
+# Ignore IDE settings
+.vscode/
